@@ -1,0 +1,4 @@
+! Blocks all known Tuya domains. Do NOT use unless you are controlling your Tuya devices locally using something like Home Assistant.
+||tuyaeu.com^
+||tuyaus.com^
+||tuyacn.com^
